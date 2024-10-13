@@ -29,7 +29,8 @@ export default [
 	},
 	{
 		rules: {
-			quotes: "error"
+			quotes: "error",
+			semi: ["error", "always"]
 		}
 	}
 ];
