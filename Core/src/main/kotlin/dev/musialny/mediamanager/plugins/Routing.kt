@@ -1,4 +1,4 @@
-package dev.musialny.portfoliomanager.plugins
+package dev.musialny.mediamanager.plugins
 
 import io.ktor.server.application.*
 import io.ktor.server.response.*

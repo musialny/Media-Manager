@@ -6,7 +6,7 @@ plugins {
     id("io.ktor.plugin") version "3.0.0-rc-1"
 }
 
-group = "dev.musialny.portfoliomanager"
+group = "dev.musialny.mediamanager"
 version = "0.0.1"
 
 application {

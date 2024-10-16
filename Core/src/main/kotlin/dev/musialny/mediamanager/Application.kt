@@ -1,6 +1,6 @@
-package dev.musialny.portfoliomanager
+package dev.musialny.mediamanager
 
-import dev.musialny.portfoliomanager.plugins.*
+import dev.musialny.mediamanager.plugins.*
 import io.ktor.server.application.*
 
 fun main(args: Array<String>) {
